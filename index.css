@@ -260,6 +260,15 @@ a{
     transition-property:box-shadow;
     transition-duration: 0.7s;
 }
+#testimonial-response1{
+    margin-left: 60px;
+}
+#testimonial-response2{
+    margin: 0 30px;
+}
+#testimonial-response3{
+    margin-right: 60px;
+}
 .testimonial-message{
     Font-Family: 'Poppins', sans-serif;
     font-Size: 14px;
